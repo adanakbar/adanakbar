@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Adan Akbar!
 
-<!--
-**adanakbar/adanakbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate Data Engineering student with hands-on experience in SQL, Python, PowerBI and data analysis. I love solving real-world problems through data and exploring new technologies like Apache Kafka.
 
-Here are some ideas to get you started:
+## 🌱 Current Focus
+Currently working on projects involving financial analysis and employee turnover statistics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Data Engineering
+- SQL
+- Python
+- Data Analysis
+- Apache Kafka
+- Git & GitHub
+
+## 📫 Connect with Me
+Feel free to reach out to collaborate or discuss data-driven insights!
